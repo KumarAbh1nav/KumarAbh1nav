@@ -4,9 +4,8 @@
 ---
 
 <!-- Animated Typing Header -->
-<div align="left">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=30&pause=100000000&color=1ABC9C&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Abhinav+%7C+DevOps+Engineer)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=100000000&color=1ABC9C&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Abhinav+%7C+DevOps+Engineer)](https://git.io/typing-svg)
+
 
 ---
 
