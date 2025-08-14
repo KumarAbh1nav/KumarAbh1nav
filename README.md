@@ -4,9 +4,6 @@
   <img src="https://your-hosted-url.com/devops-loop.gif" alt="DevOps Animated Logo" width="100%" />
 </p>
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ABC9C&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Abhinav;DevOps+Engineer+%7C+Cloud+Enthusiast;Automating+Today+for+a+Better+Tomorrow)](https://git.io/typing-svg)
-
 ---
 
 
