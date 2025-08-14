@@ -1,13 +1,5 @@
-<!-- DevOps Dynamic Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/pK4JXK8/devops-banner.gif" alt="DevOps Banner" width="100%" />
-</p>
-
----
-
-
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ABC9C&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Abhinav;DevOps+Engineer+%7C+Cloud+Enthusiast;Automating+Today+for+a+Better+Tomorrow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ABC9C&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Abhinav;DevOps+Engineer)](https://git.io/typing-svg)
 
 ---
 
