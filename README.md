@@ -34,7 +34,7 @@ Recognized for a strong **problem-solving mindset**, **leadership skills**, and 
 **Achievements**:  
 - Participated in **partnership negotiations** with multiple clients & vendors to expand company services.  
 - Created **documentation** and contributed to **project bidding** on international portals.  
-- Supported **proposal creation** and **client requirement mapping** across countries.  
+- Supported **proposal creation** and **client requirement mapping & bidding** across Uk & Canada.  
 
 ---
 
