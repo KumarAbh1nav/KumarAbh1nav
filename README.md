@@ -1,43 +1,63 @@
-<!-- Typing Effect Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1ABC9C&center=false&vCenter=true&multiline=true&repeat=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Abhinav;DevOps+Engineer)](https://git.io/typing-svg)
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KumarAbh1nav/KumarAbh1nav/main/DevOps-Steps-1-min.gif" width="320" alt="DevOps Steps">
+</p>
+
+<!-- Name & Role -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=1&pause=100000000&color=00D1B2&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Abhinav+%7C+DevOps+Engineer" alt="Typing SVG">
+</h1>
 
 ---
 
-## About Me  
-
-<table>
-<tr>
-<td width="220px">
-<img src="https://github.com/KumarAbh1nav/KumarAbh1nav/blob/main/devops.gif" width="200px" alt="DevOps GIF">
-</td>
-<td>
-
-Currently working as a **DevOps Intern at FusionPact Inc**, contributing to **CI/CD Pipeline Development**, **Infrastructure Automation**, and **Cloud Cost Optimization**.  
-
-- Proficient in tools like **Docker**, **Kubernetes**, **Jenkins** and cloud platforms such as **AWS** and **Azure**, with strong scripting and automation skills using **Python** and **Ansible**.  
-- Participated in partnership negotiations with multiple clients & vendors and supported bidding for international projects, showcasing business collaboration skills beyond technical work.  
-- Holds certifications in **Microsoft Azure (AZ-104 & AZ-900)** with a concrete academic foundation in **Computer Science** and a postgraduate program in **DevOps from Caltech CTME**.  
-- Recognized for a strong **problem-solving mindset**, **leadership skills**, and capability to work effectively in cross-functional teams.  
-
-</td>
-</tr>
-</table>
+## 🌟 About Me
+🚀 Passionate **DevOps Engineer** at **FusionPact Inc** — driving **CI/CD innovation**, **cloud cost optimization**, and **infrastructure automation**.  
+💡 Blending **technical expertise** with **strategic business collaboration**, having contributed to **international project bids** and **vendor partnerships**.  
+🎓 Certified in **Microsoft Azure (AZ-104 & AZ-900)** + **Postgraduate Program in DevOps** from **Caltech CTME**.
 
 ---
 
-## 🚀 Skills & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
+## 💼 Professional Highlights  
+✅ **Automated CI/CD Pipelines** → Faster, reliable releases  
+✅ **Container Orchestration** → Docker, Kubernetes, ECS  
+✅ **Cloud Optimization** → AWS infra cost reduced via smart scaling  
+✅ **Security Integration** → Compliance-ready pipelines  
+✅ **Cross-Team Collaboration** → Dev + QA + Ops efficiency boost  
+✅ **Data Migration** → Zero data loss across multi-env setups  
 
 ---
 
-## 📫 Connect with Me  
+## 🏆 Key Achievements  
+- 📝 Negotiated & secured **client/vendor partnerships**  
+- 🌍 Supported **bidding & proposals** for UK & Canada projects  
+- 📜 Created **technical documentation** for large-scale deployments  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumar%20Abhinav-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kumar-abhinav-profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-KumarAbh1nav-black?logo=github&style=for-the-badge)](https://github.com/KumarAbh1nav)
+---
+
+## 🛠 Tech Arsenal  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,terraform,jenkins,docker,kubernetes,aws,azure,python,ansible,linux,postman" alt="Tech Stack">
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KumarAbh1nav&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KumarAbh1nav&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+---
+
+## 🌐 Let’s Connect  
+<p align="center">
+  <a href="https://linkedin.com/in/kumarabh1nav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:kumar.abhinav@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+  <a href="https://github.com/KumarAbh1nav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  </a>
+</p>
