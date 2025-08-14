@@ -14,12 +14,6 @@ I turn manual processes into smooth pipelines, building infrastructure that’s 
 
 ---
 
-## 📜 Experience Timeline  
-
-<p align="center">
-  <img src="https://svgshare.com/i/14rG.svg" alt="Experience Timeline" />
-</p>
-
 ---
 
 ### 💼 Professional Highlights
