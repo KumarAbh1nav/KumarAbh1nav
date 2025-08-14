@@ -1,5 +1,5 @@
 <!-- Banner -->
-![DevOps Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![DevOps Banner](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ABC9C&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Abhinav;DevOps+Engineer)](https://git.io/typing-svg)
