@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me  
-Currently working as a **DevOps Intern** at **FusionPact Inc**, contributing to **CI/CD Pipeline Development**, **Infrastructure Automation**, and **Cloud Cost Optimization**.  
+Currently working as a **DevOps Engineer** at **FusionPact Inc**, contributing to **CI/CD Pipeline Development**, **Infrastructure Automation**, and **Cloud Cost Optimization**.  
 
 Proficient in tools like **Docker**, **Kubernetes**, **Jenkins**, and cloud platforms such as **AWS** and **Azure**, with strong scripting and automation skills using **Python** and **Ansible**.  
 
