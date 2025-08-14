@@ -1,53 +1,28 @@
 <!-- Banner -->
 ![DevOps Steps](https://raw.githubusercontent.com/KumarAbh1nav/KumarAbh1nav/main/DevOps-Steps-1-min.gif)
-<img src="https://raw.githubusercontent.com/KumarAbh1nav/KumarAbh1nav/main/DevOps-Steps-1-min.gif" width="500">
 
 ---
 
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=100000000&color=1ABC9C&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Abhinav+%7C+DevOps+Engineer)](https://git.io/typing-svg)
 
-
 ---
 
 ## 🚀 About Me  
-Currently working as a **DevOps Engineer** at **FusionPact Inc**, contributing to **CI/CD Pipeline Development**, **Infrastructure Automation**, and **Cloud Cost Optimization**.  
+I’m a **DevOps Engineer** at **FusionPact Inc**, driving **CI/CD pipeline development**, **infrastructure automation**, and **cloud cost optimization**.  
 
-Proficient in tools like **Docker**, **Kubernetes**, **Jenkins**, and cloud platforms such as **AWS** and **Azure**, with strong scripting and automation skills using **Python** and **Ansible**.  
+I specialize in tools like **Docker**, **Kubernetes**, **Jenkins**, and cloud platforms including **AWS** and **Azure**, with strong automation skills using **Python** and **Ansible**.  
 
-Participated in **partnership negotiations** with multiple clients & vendors and supported **bidding for international projects**, showcasing business collaboration skills beyond technical work.  
+Beyond engineering, I have experience in **client/vendor partnerships**, **international project bidding**, and **business collaboration**, bringing both technical and strategic value to projects.  
 
-Holds certifications in **Microsoft Azure (AZ-104 & AZ-900)**, with a concrete academic foundation in **Computer Science** and a **Postgraduate Program in DevOps** from **Caltech CTME**.  
+**Certifications:**  
+- **Microsoft Azure Administrator (AZ-104)**  
+- **Microsoft Azure Fundamentals (AZ-900)**  
+- **Postgraduate Program in DevOps** – Caltech CTME  
 
-Recognized for a strong **problem-solving mindset**, **leadership skills**, and the capability to work effectively in **cross-functional teams**.
-
----
-
-## 💼 Experience  
-- **Developed and maintained automated CI/CD pipelines** for build, test, and deployment processes.  
-- Managed configuration and infrastructure across **development, staging, and production** environments.  
-- Monitored and optimized **AWS cloud infrastructure**; implemented **cost-control strategies**.  
-- Deployed and orchestrated containers using **Docker**, **ECS**, and **Kubernetes**.  
-- Integrated **security checks** into DevOps pipelines to enhance compliance and reliability.  
-- Collaborated across **Dev, QA, and Ops teams** to streamline the release lifecycle.  
-- Facilitated **seamless Data Migration** from local development to testing, staging & production environments, ensuring data integrity and consistency.  
-
-**Achievements**:  
-- Participated in **partnership negotiations** with multiple clients & vendors to expand company services.  
-- Created **documentation** and contributed to **project bidding** on international portals.  
-- Supported **proposal creation** and **client requirement mapping & bidding** across Uk & Canada.  
+Recognized for a **problem-solving mindset**, **leadership skills**, and the ability to thrive in **cross-functional teams**.
 
 ---
 
-## 🛠️ Tech Stack  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,terraform,jenkins,docker,kubernetes,aws,azure,python,ansible" />
-</p>
-
----
-
-## 📊 GitHub Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KumarAbhinav&show_icons=true&theme=radical" />
-</p>
----
+## 💼 Experience Highlights  
+- Built and maintained **automated CI/CD pipelines**
