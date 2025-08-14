@@ -1,8 +1,6 @@
 <!-- Banner -->
-![DevOps Banner](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
-
 ![DevOps Steps](https://raw.githubusercontent.com/KumarAbh1nav/KumarAbh1nav/main/DevOps-Steps-1-min.gif)
-
+<img src="https://raw.githubusercontent.com/KumarAbh1nav/KumarAbh1nav/main/DevOps-Steps-1-min.gif" width="500">
 
 ---
 
