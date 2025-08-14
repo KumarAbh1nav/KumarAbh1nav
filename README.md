@@ -32,30 +32,15 @@ Recognized for a strong **problem-solving mindset**, **leadership skills**, and 
 
 ---
 
-## 🛠 Tech Stack  
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?logo=ansible&logoColor=white)  
-
-**Programming & Scripting**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)  
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?logo=gnu-bash&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?logo=postgresql&logoColor=white)  
-
-**Testing Tools**  
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white)  
-![Zephyr](https://img.shields.io/badge/Zephyr-%23007ACC.svg?logoColor=white)  
+## 🛠️ Tech Stack  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,terraform,jenkins,docker,kubernetes,aws,azure,python,ansible" />
+</p>
 
 ---
 
-## 📈 GitHub Stats  
-![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarAbhinav29&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAbhinav29&layout=compact&theme=radical)
-
+## 📊 GitHub Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KumarAbhinav&show_icons=true&theme=radical" />
+</p>
 ---
