@@ -1,6 +1,9 @@
 <!-- Banner -->
 ![DevOps Banner](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 
+![DevOps GIF](https://github.com/KumarAbh1nav/KumarAbh1nav/blob/main/0b8cfdba-92ab-47c4-bd40-5ebd709702da.gif)
+
+
 ---
 
 <!-- Animated Typing Header -->
