@@ -9,26 +9,26 @@
 ---
 
 ## 🌟 About Me
-[cite_start]🚀 **Cloud & DevOps Engineer** with 5+ years of experience specializing in **AWS/Azure cloud-native architectures**[cite: 3].  
-[cite_start]💡 Expert in **Kubernetes orchestration (EKS/AKS)**, **Terraform IaC**, and building automated **CI/CD ecosystems** ensuring 99.9% uptime[cite: 4, 6].  
-[cite_start]🎓 **B.E. in Computer Science & Engineering** [cite: 46] [cite_start]and certified **Microsoft Azure Administrator (AZ-104)**[cite: 43].
+🚀 **Cloud & DevOps Engineer** with 5+ years of experience specializing in **AWS/Azure cloud-native architectures**.  
+💡 Expert in **Kubernetes orchestration (EKS/AKS)**, **Terraform IaC**, and building automated **CI/CD ecosystems** ensuring 99.9% uptime.  
+🎓 **B.E. in Computer Science & Engineering** and certified **Microsoft Azure Administrator (AZ-104)**.
 
 ---
 
 ## 💼 Professional Highlights
-[cite_start]✅ **Infrastructure as Code** → Architected production-grade infrastructure via **Terraform (IaC)**, resulting in a 30% reduction in cloud provisioning time[cite: 18].  
-[cite_start]✅ **Zero-Downtime Deployments** → Implemented **blue-green and rolling deployment patterns** for high-traffic SaaS platforms using Helm charts and EKS[cite: 17].  
-[cite_start]✅ **Observability & Reliability** → Established stacks using Prometheus, Grafana, and ELK, reducing **Mean Time to Recovery (MTTR) by 40%**[cite: 20].  
-[cite_start]✅ **DevSecOps** → Integrated tools like **SonarQube and Trivy** to secure Enterprise Banking and SaaS platforms[cite: 6].  
-[cite_start]✅ **Asynchronous Architecture** → Architected communication using **Azure Service Bus and Event Grid** for high-volume banking transactions[cite: 27].  
-[cite_start]✅ **Pipeline Automation** → Accelerated release cycles by 20% through end-to-end CI/CD automation[cite: 21].
+✅ **Infrastructure as Code** → Architected production-grade infrastructure via **Terraform (IaC)**, resulting in a 30% reduction in cloud provisioning time.  
+✅ **Zero-Downtime Deployments** → Implemented **blue-green and rolling deployment patterns** for high-traffic SaaS platforms using Helm charts and EKS.  
+✅ **Observability & Reliability** → Established stacks using Prometheus, Grafana, and ELK, reducing **Mean Time to Recovery (MTTR) by 40%**.  
+✅ **DevSecOps** → Integrated tools like **SonarQube and Trivy** to secure Enterprise Banking and SaaS platforms[cite: 6].  
+✅ **Asynchronous Architecture** → Architected communication using **Azure Service Bus and Event Grid** for high-volume banking transactions.  
+✅ **Pipeline Automation** → Accelerated release cycles by 20% through end-to-end CI/CD automation.
 
 ---
 
 ## 🏆 Key Achievements
-- [cite_start]📝 **Reduced production defects by 25%** by integrating static analysis and automated artifact management[cite: 16].
-- [cite_start]🏦 **Banking Compliance** → Ensured 100% adherence to regulatory standards via secure Azure Blob lifecycle policies[cite: 30].
-- [cite_start]⚡ **Enhanced Resilience** → Reduced **Mean Time to Detect (MTTD) by 30%** for production-level customer engagement systems[cite: 28].
+📝 **Reduced production defects by 25%** by integrating static analysis and automated artifact management.
+🏦 **Banking Compliance** → Ensured 100% adherence to regulatory standards via secure Azure Blob lifecycle policies.
+⚡ **Enhanced Resilience** → Reduced **Mean Time to Detect (MTTD) by 30%** for production-level customer engagement systems.
 
 ---
 
@@ -37,8 +37,8 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,jenkins,githubactions,ansible,python,linux,prometheus,grafman,elasticsearch" alt="Tech Stack">
 </p>
 
-> [cite_start]**Cloud Platforms:** AWS (VPC, EKS, RDS, S3), Azure (Service Bus, Event Grid, Blob Storage)[cite: 8].  
-> [cite_start]**Tools:** Terraform, Helm, Jenkins, SonarQube, Nexus, Nginx, Prometheus, Grafana[cite: 8, 9, 10].
+> **Cloud Platforms:** AWS (VPC, EKS, RDS, S3), Azure (Service Bus, Event Grid, Blob Storage).  
+> **Tools:** Terraform, Helm, Jenkins, SonarQube, Nexus, Nginx, Prometheus, Grafana.
 
 ---
 
